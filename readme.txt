@@ -1,1 +1,1 @@
-There is some Python learning source.
+There are some Python learning sources.
